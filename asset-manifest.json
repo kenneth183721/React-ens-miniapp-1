@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-ens-miniapp-1/static/css/main.feda927d.css",
+    "main.js": "/React-ens-miniapp-1/static/js/main.f5fcef23.js",
+    "index.html": "/React-ens-miniapp-1/index.html",
+    "main.feda927d.css.map": "/React-ens-miniapp-1/static/css/main.feda927d.css.map",
+    "main.f5fcef23.js.map": "/React-ens-miniapp-1/static/js/main.f5fcef23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feda927d.css",
+    "static/js/main.f5fcef23.js"
+  ]
+}
